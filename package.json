@@ -1,0 +1,25 @@
+{
+  "name": "api-financial-node",
+  "version": "1.0.0",
+  "description": "Api financeira",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CesarHenriqueRamos/api-financial-node.js.git"
+  },
+  "author": "Cesar Henrique Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CesarHenriqueRamos/api-financial-node.js/issues"
+  },
+  "homepage": "https://github.com/CesarHenriqueRamos/api-financial-node.js#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0"
+  }
+}
